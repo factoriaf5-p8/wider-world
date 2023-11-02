@@ -6,9 +6,13 @@
 La empresa Wider World quiere lanzar en breve su sitio web para la contratación de viajes extraordinarios. Todavía no tiene claro cual será el target de viajes en el que quiere centrar su negocio principal. Ahora mismo están barajando las siguientes temáticas:
 
 Viaje espiritual hacia tu interior, dedicado a rutas de aprendizaje y de crecimiento,
+
 Viajes de cuento, basado en cuentos clásicos y no tan clásicos,
+
 Viajes muy muy locos,
+
 Viajes a alter events... el último concurso de romper sandías con la cabeza u otros similares necesitan mucho público,
+
 Viajes a otros planetas y dimensiones,
 En fin, que no se deciden.
 
